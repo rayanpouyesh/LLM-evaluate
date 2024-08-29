@@ -14,7 +14,6 @@ def exel2(df_models):
         del name_list[s]['selected']
         del name_list[s]['Model']
 
-    print(name_list)
     
     return name_list
 
